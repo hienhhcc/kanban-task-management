@@ -19,6 +19,17 @@
 	--fw-medium: 500;
 	--fw-bold: 700;
 
+	--fs-300: 12px;
+	--fs-400: 13px;
+	--fs-500: 15px;
+	--fs-600: 18px;
+	--fs-700: 24px;
+
+	--lh-300: 15px;
+	--lh-400: 19px;
+	--lh-500: 23px;
+	--lh-600: 30px;
+
 	font-family: 'Plus Jakarta Sans', sans-serif;
 }
 // https://piccalil.li/blog/a-modern-css-reset
