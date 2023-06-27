@@ -1,17 +1,21 @@
 :root {
-	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-	line-height: 1.5;
-	font-weight: 400;
+	--clr-primary-400: #635fc7;
+	--clr-primary-300: #a8a4ff;
 
-	color-scheme: light dark;
-	color: rgba(255, 255, 255, 0.87);
-	background-color: #242424;
+	--clr-dark-900: #000012;
+	--clr-dark-800: #20212c;
+	--clr-dark-700: #2b2c37;
+	--clr-dark-600: #3e3f4e;
+	--clr-dark-500: #828fa3;
+	--clr-dark-400: #e4ebfa;
+	--clr-dark-300: #f4f7fd;
 
-	font-synthesis: none;
-	text-rendering: optimizeLegibility;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-text-size-adjust: 100%;
+	--clr-white: #ffffff;
+
+	--clr-accent-400: #ea5555;
+	--clr-accent-300: #ff9898;
+
+	font-family: 'Plus Jakarta Sans', sans-serif;
 }
 // https://piccalil.li/blog/a-modern-css-reset
 
