@@ -15,6 +15,10 @@
 	--clr-accent-400: #ea5555;
 	--clr-accent-300: #ff9898;
 
+	--fw-regular: 400;
+	--fw-medium: 500;
+	--fw-bold: 700;
+
 	font-family: 'Plus Jakarta Sans', sans-serif;
 }
 // https://piccalil.li/blog/a-modern-css-reset
